@@ -19,8 +19,8 @@ header {
 .img-menu {
 	display: block;
 	border-radius: 50%;
-	width: 160px;
-    height: 160px;
+	width: 190px;
+	height: 190px;
 	border: 7px solid #343a40;
 }
 
@@ -108,7 +108,7 @@ header {
 	text-indent: 30px;
 	line-height: 30px;
 	align-items: center;
-	padding-right: 25px;
+	/* padding-right: 25px; */
 }
 
 .info1 {
@@ -228,99 +228,155 @@ h2.title {
 }
 
 .media-card-index { 
-	background: url("../img/logos/index_logo.jpg") center/cover;
+	background: url("../resources/logos/index_logo.jpg") center/cover;
 	height: 240px;
 	width: 100%;
 }
 
 .media-card-carvalho {
-	background: url("../img/logos/carvalho_imagem.jpg") center/cover;
+	background: url("../resources/logos/carvalho_imagem.jpg") center/cover;
 	height: 300px;
 	width: 100%;
 }
 
 .media-card-germinare {
-	background: url("../img/logos/germinare_imagem.jpg") center/cover;
+	background: url("../resources/logos/germinare_imagem.jpg") center/cover;
 	height: 275px;
 	width: 100%;
 }
 
 .media-card-head {
-	background: url("../img/logos/head_mind.jpg") center/cover;
+	background: url("../resources/logos/head_mind.jpg") center/cover;
 	height: 300px;
 	width: 100%;
 }
 
 .media-card-coruja {
-	background: url("../img/logos/hora_da_coruja3.jpg") center/cover;
+	background: url("../resources/logos/hora_da_coruja3.jpg") center/cover;
 	height: 300px;
 	width: 100%;
 }
 
 .media-card-pousada {
-	background: url("../img/logos/hospedaria_do_quadrado.jpg") center/cover;
+	background: url("../resources/logos/hospedaria_do_quadrado.jpg") center/cover;
 	height: 229px;
 	width: 100%;
 }
 
 .media-card-restaurante {
-	background: url("../img/logos/logo\ Dita\ Cabrita.jpg") center/cover;
+	background: url("../resources/logos/logo\ Dita\ Cabrita.jpg") center/cover;
 	height: 106px;
 	width: 100%;
 }
 
 .media-card-fonte {
-	background: url("../img/logos/logo_fonte7.jpg") center/cover;
+	background: url("../resources/logos/logo_fonte7.jpg") center/cover;
 	height: 300px;
 	width: 100%;
 }
 
 .media-card-yellow {
-	background: url("../img/logos/logo_yellow.jpg") center/cover;
+	background: url("../resources/logos/logo_yellow.jpg") center/cover;
 	height: 300px;
 	width: 100%;
 }
 
 .media-card-painel {
-	background: url("../img/logos/painel_da_pintura_imagem.jpg") center/cover;
+	background: url("../resources/logos/painel_da_pintura_imagem.jpg") center/cover;
 	height: 272px;
 	width: 100%;
 }
 
 .media-card-sitio {
-	background: url("../img/logos/sitio_da_nona_imagem.jpg") center/cover;
+	background: url("../resources/logos/sitio_da_nona_imagem.jpg") center/cover;
 	height: 300px;
 	width: 100%;
 }
 
 .media-card-twins {
-	background: url("../img/logos/the_twins_imagem.jpg") center/cover;
+	background: url("../resources/logos/the_twins_imagem.jpg") center/cover;
 	height: 300px;
 	width: 100%;
 }
 
 .media-card-pianos {
-	background: url("../img/logos/pianos_imagem.jpg") center/cover;
+	background: url("../resources/logos/pianos_imagem.jpg") center/cover;
 	height: 300px;
 	width: 100%;
 }
 
 .media-card-turismo {
-	background: url("../img/logos/turismo\ copiar.jpg") center/cover;
+	background: url("../resources/logos/turismo\ copiar.jpg") center/cover;
 	height: 300px;
 	width: 100%;
 }
 
 .media-card-rebua {
-	background: url("../img/logos/Untitled-6.jpg") center/cover;
+	background: url("../resources/logos/Untitled-6.jpg") center/cover;
 	height: 203px;
 	width: 100%;
 }
 
 .media-card-vela {
-	background: url("../img/logos/vela.jpg") center/cover;
+	background: url("../resources/logos/vela.jpg") center/cover;
 	height: 273px;
 	width: 100%;
+}
+
+.media-card-111 {
+	background: url("../resources/logos/111.jpg") center/cover;
+	height: 274px;
+	width: 48%;
+	margin: 0 auto;
+}
+
+.media-card-222 {
+	background: url("../resources/logos/222.jpg") center/cover;
+	height: 274px;
+	width: 48%;
+	margin: 0 auto;
+}
+
+.media-card-333 {
+	background: url("../resources/logos/333.jpg") center/cover;
+	height: 274px;
+	width: 48%;
+	margin: 0 auto;
+}
+
+.media-card-444 {
+	background: url("../resources/logos/444.jpg") center/cover;
+	height: 274px;
+	width: 48%;
+	margin: 0 auto;
+}
+
+.media-card-555 {
+	background: url("../resources/logos/555.jpg") center/cover;
+	height: 274px;
+	width: 48%;
+	margin: 0 auto;
+}
+
+.media-card-666 {
+	background: url("../resources/logos/666.jpg") center/cover;
+	height: 245px;
+	width: 84%;
+	margin: 0 auto;
+}
+
+.media-card-777 {
+	background: url("../resources/logos/777.jpg") center/cover;
+	height: 274px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.media-card-888 {
+	background: url("../resources/logos/888.jpg") center/cover;
+	height: 274px;
+	width: 48%;
+	margin: 0 auto;
 }
 
 /*Página contato*/
